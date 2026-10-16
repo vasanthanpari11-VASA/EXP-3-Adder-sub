@@ -18,7 +18,6 @@ half_add_sub.v	Arithmetic-circuit RTL
 half_add_sub_tb.v	Stimulus and VCD generation
 
 ### Verilog Program
-```
 ```module half_adder (
     input  wire A,
     input  wire B,
