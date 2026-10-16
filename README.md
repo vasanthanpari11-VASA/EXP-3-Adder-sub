@@ -142,8 +142,6 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ### Output
 
 <img width="1920" height="1080" alt="vasanthan p 26018948 EXP3" src="https://github.com/user-attachments/assets/7d9ce0b5-321e-4613-9443-7f45920b76c4" />
-
-
 ### Viva-Voce Questions
 
 •	What is a Half Adder, and what are its limitations compared to a Full Adder?
